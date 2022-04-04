@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nil</h1>
 <h3 align="center">A passionate full stack developer from Spain</h3>
 
-- 🔭 I’m currently working on [repostagyh](https://gasnam.es/quienes-somos/nuestros-proyectos/)
+- 🔭 I’m currently working at [Globacap](https://globacap.com/)
 
-- 🌱 I’m currently learning **Reanimated**
+- 🌱 I’m currently learning **NestJS** and **GraphQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
